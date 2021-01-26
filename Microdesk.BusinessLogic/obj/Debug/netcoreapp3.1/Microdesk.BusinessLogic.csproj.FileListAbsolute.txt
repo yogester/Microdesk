@@ -1,0 +1,12 @@
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\bin\Debug\netcoreapp3.1\Microdesk.BusinessLogic.deps.json
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\bin\Debug\netcoreapp3.1\Microdesk.BusinessLogic.dll
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\bin\Debug\netcoreapp3.1\Microdesk.BusinessLogic.pdb
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\bin\Debug\netcoreapp3.1\Microdesk.DataAccess.dll
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\bin\Debug\netcoreapp3.1\Microdesk.DataAccess.pdb
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.AssemblyInfo.cs
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.csproj.CopyComplete
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.dll
+C:\Users\ysisodiya\source\repos\Microdesk\Microdesk.BusinessLogic\obj\Debug\netcoreapp3.1\Microdesk.BusinessLogic.pdb
